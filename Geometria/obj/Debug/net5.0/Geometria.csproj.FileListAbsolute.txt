@@ -1,0 +1,16 @@
+C:\Users\android\Downloads\Antonio\Geometria\obj\Debug\net5.0\Geometria.csproj.AssemblyReference.cache
+C:\Users\android\Downloads\Antonio\Geometria\obj\Debug\net5.0\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Downloads\Antonio\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfoInputs.cache
+C:\Users\android\Downloads\Antonio\Geometria\obj\Debug\net5.0\Geometria.AssemblyInfo.cs
+C:\Users\android\Downloads\Antonio\Geometria\obj\Debug\net5.0\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\android\Downloads\Antonio\Geometria\bin\Debug\net5.0\Geometria.exe
+C:\Users\android\Downloads\Antonio\Geometria\bin\Debug\net5.0\Geometria.deps.json
+C:\Users\android\Downloads\Antonio\Geometria\bin\Debug\net5.0\Geometria.runtimeconfig.json
+C:\Users\android\Downloads\Antonio\Geometria\bin\Debug\net5.0\Geometria.runtimeconfig.dev.json
+C:\Users\android\Downloads\Antonio\Geometria\bin\Debug\net5.0\Geometria.dll
+C:\Users\android\Downloads\Antonio\Geometria\bin\Debug\net5.0\ref\Geometria.dll
+C:\Users\android\Downloads\Antonio\Geometria\bin\Debug\net5.0\Geometria.pdb
+C:\Users\android\Downloads\Antonio\Geometria\obj\Debug\net5.0\Geometria.dll
+C:\Users\android\Downloads\Antonio\Geometria\obj\Debug\net5.0\ref\Geometria.dll
+C:\Users\android\Downloads\Antonio\Geometria\obj\Debug\net5.0\Geometria.pdb
+C:\Users\android\Downloads\Antonio\Geometria\obj\Debug\net5.0\Geometria.genruntimeconfig.cache
