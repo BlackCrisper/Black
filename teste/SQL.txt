@@ -1,0 +1,38 @@
+use bdsenaitds
+go
+Create table Turno(
+	TurnoID int identity(1,1) primary key,
+	TurDescricao varchar(100)
+)
+
+go
+Create table Professor(
+	ProfId int identity(1,1) primary key,
+	ProfNome varchar(100),
+	TurnoID int
+)
+Alter Table Professor 
+Add Foreign key (TurnoID) references turno(TurnoID);
+
+go 
+
+--inserindo dados iniciais para teste--
+
+Select * From Professor
+Select * From Turno
+
+go
+Insert Professor values ('Reginaldo',null)
+
+go
+Insert Professor values ('Santana',null)
+
+go
+Insert Turno values ('Manhã')
+Insert Turno values ('Tarde')
+Insert Turno values ('Noite')
+Insert Turno values ('Manhã/Tarde')
+
+go
+Insert Professor values ('Febronio',1)
+
